@@ -1,0 +1,5 @@
+Umitsuri ni Ikou! is a simple fishing simulator where you control a little boy at a variety of seaside locations; a pier, a beach, a stone outcropping, and out on the ocean.
+
+As you cast a bar will rise and fall on the right side of the screen, when you press the A button the the bar will stop. Depending on how high the bar is when you stop it correlates to how far your line goes. Bigger fish lurk farther out; however, bigger fish are more difficult to real in given their distance from shore.
+
+One your hook is in the water you will be treated to a
